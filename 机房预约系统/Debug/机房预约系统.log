@@ -1,0 +1,9 @@
+﻿  Manager.cpp
+  orderFile.cpp
+  Studert.cpp
+g:\selfstudy\c++\机房预约系统\机房预约系统\studert.cpp(261): warning C4018: “<=”: 有符号/无符号不匹配
+  Teacher.cpp
+g:\selfstudy\c++\机房预约系统\机房预约系统\teacher.cpp(121): warning C4018: “<=”: 有符号/无符号不匹配
+  机房预约系统.cpp
+  正在生成代码...
+  机房预约系统.vcxproj -> G:\selfStudy\c++\机房预约系统\Debug\机房预约系统.exe
